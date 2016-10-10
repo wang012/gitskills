@@ -1,2 +1,2 @@
 # gitskills
-gogogo
+lalala
